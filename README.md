@@ -9,3 +9,4 @@ Additionally, they contain two special types of words: '*kigo*' (=seasonal refer
 
 <img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/a63763ff-265a-4613-9cb5-8352f919ae32" />
 
+After training the GPT-2 based model, by inserting different themes, the model will generate a fitting haiku poem.
